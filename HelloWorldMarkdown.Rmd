@@ -1,0 +1,11 @@
+---
+title: "HelloWorldMarkdown"
+author: "Wihok Supat"
+date: "September 25, 2015"
+output: 
+  html_document: 
+    keep_md: yes
+---
+
+
+##This is a mark down file
